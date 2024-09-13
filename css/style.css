@@ -1,0 +1,30 @@
+html {
+    background-image: url(../img/bg.svg);
+    position: fixed;
+    background-size: 370%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h1 {
+    height: 50px;
+    top: 20px;
+    left: 300px;
+    margin-top: 300px;
+    margin-left: 250px;
+    font-size: xx-large;
+
+}
+
+p {
+    margin-left: 250px;
+    position: fixed;
+    width: 400px;
+    font-size: large;
+}
+
+img {
+    position: absolute;
+    top: 230px;
+    left: 900px;
+}
